@@ -1,4 +1,4 @@
-# Data-Wrangling-of-Automobile-Dataset
-   Data Cleaning, preprocessing, Formatting and Normalizing
-# Exploratory-Data-Analysis 
-   Statistical Data Summarizing, Categorical data Summarizing, Grouping Data, Correlation
+# Data-Analytics-of-Automobile-Dataset
+   1.Data Cleaning, preprocessing, Formatting and Normalizing
+   2.Exploratory-Data-Analysis 
+   3.Statistical Data Summarizing, Categorical data Summarizing, Grouping Data, Correlation
